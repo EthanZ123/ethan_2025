@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**bold text** hi
+Hi, My name is Ethan. I'm a sophomore at Del Norte High School and this is my website. 
