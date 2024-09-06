@@ -78,10 +78,14 @@ Here are the states that I have lived in...
 
 
 
-I'm Chinese, but my parents and I speak a dialect of mandarin at home. 
-<p> And a thumbs up emoji: &#x1F44D; <p>
+I'm Chinese, but my parents and I speak a dialect of mandarin at home. &#x1F44D;
 
 
 ![](image-5.png)
 
 
+<img src= "{{site.baseurl}}/images/notebooks/image.png" alt="Block">
+
+
+
+<img src= "{{site.baseurl}}/images/notebooks/image copy.png" alt="pancakes">
