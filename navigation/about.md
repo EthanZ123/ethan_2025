@@ -6,10 +6,6 @@ permalink: /about/
 
 Hi, My name is Ethan. I'm a sophomore at Del Norte High School. 😍
 
-
-
-
-
 I love playing instruments and trying new things. 𝄡🎶                                                           
 
 
