@@ -4,10 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, My name is Ethan. I'm a sophomore at Del Norte High School. 😍
-
-I love playing instruments and trying new things. 𝄡🎶                                                           
-
+Hi, My name is Ethan. I'm a sophomore at Del Norte High School.
 
 
 Here are the states that I have lived in...
@@ -79,9 +76,12 @@ Here are the states that I have lived in...
     }
 </script>
 
-I'm Chinese, but my parents and I speak a dialect of mandarin at home. 
 
+
+I'm Chinese, but my parents and I speak a dialect of mandarin at home. 
+<p> And a thumbs up emoji: &#x1F44D; <p>
 
 
 ![](image-5.png)
+
 
