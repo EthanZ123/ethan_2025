@@ -4,7 +4,8 @@ title: About me
 permalink: /about/
 ---
 
-Hi, My name is Ethan. I'm a sophomore at Del Norte High School.
+
+Hi, My name is Ethan. I'm a sophomore at Del Norte High School. &#128513; &#128513;
 
 
 Here are the states that I have lived in...
@@ -62,6 +63,7 @@ Here are the states that I have lived in...
         var description = document.createElement("p");
         description.textContent = location.description; // extract the description
 
+
         // Add "p" HTML tag for the greeting
         var greeting = document.createElement("p");
         greeting.textContent = location.greeting;  // extract the greeting
@@ -76,16 +78,20 @@ Here are the states that I have lived in...
     }
 </script>
 
-
-
-I'm Chinese, but my parents and I speak a dialect of mandarin at home. &#x1F44D;
-
-
-![](image-5.png)
-
-
-<img src= "{{site.baseurl}}/images/notebooks/image.png" alt="Block">
+<h1>Culture and Hobbies</h1>
 
 
 
-<img src= "{{site.baseurl}}/images/notebooks/image copy.png" alt="pancakes">
+
+I'm Chinese, but my parents and I speak a regional dialect of mandarin at home. &#x1F44D;
+
+My main hobby is playing the violin and viola, and listening to music overall
+
+Over the summer, I went to a national youth orchestra, where I met a lot of people who are now some of my closest friends 
+
+Here are some pictures of me from over the summer:
+
+<img src= "{{site.baseurl}}/images/notebooks/image copy 9.png" alt="Me">
+<img src= "{{site.baseurl}}/images/notebooks/image copy 13.png" alt = "Me">
+
+<body style="background-color:Pink;">
