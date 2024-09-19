@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+comments: true
 ---
 
 
@@ -95,3 +96,13 @@ Here are some pictures of me from over the summer:
 <img src= "{{site.baseurl}}/images/notebooks/image copy 13.png" alt = "Me">
 
 <body style="background-color:Pink;">
+
+
+<script src="https://utteranc.es/client.js"
+        repo="EthanZ123/ethan_2025"
+        issue-term="title"
+        label="utterances"
+        theme="github-light"
+        crossorigin="anonymous"
+        async> 
+</script>
