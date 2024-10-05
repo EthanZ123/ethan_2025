@@ -182,7 +182,7 @@ permalink: /wordle/
             }
         }
 
-        // Check if the guess is completely correct
+        // check if the guess is completely correct
         if (currentGuess === correctWord) {
             document.getElementById("win-message").style.display = "block";
             return;
@@ -191,14 +191,14 @@ permalink: /wordle/
         currentRow++;
         currentGuess = "";
 
-        // If the player runs out of tries
+        // player runs out of tries
         if (currentRow === maxTries) {
             document.getElementById("game-over").style.display = "block";
             document.getElementById("correct-word").textContent = correctWord.toUpperCase();
         }
     }
 
-    // Restart the game
+    // restart the game
     document.getElementById('restart-btn').addEventListener('click', function() {
         correctWord = words[Math.floor(Math.random() * words.length)];
         currentRow = 0;
@@ -206,7 +206,7 @@ permalink: /wordle/
         document.getElementById("game-over").style.display = "none";
         document.getElementById("win-message").style.display = "none";
 
-        // Clear the board
+        // clear board
         let letterBoxes = document.querySelectorAll('.letter-box');
         letterBoxes.forEach(box => {
             box.textContent = "";
@@ -214,7 +214,7 @@ permalink: /wordle/
         });
     });
 
-    // Theme switching functionality
+    // theme switch
     const themes = ['light-theme', 'dark-theme', 'blue-theme', 'red-theme', 'green-theme', 'grey-theme'];
     let currentTheme = 0;
 
