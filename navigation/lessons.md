@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lessons
-permalink: /Lessons/
+permalink: /lessons/
 ---
 
 <table>
