@@ -14,6 +14,7 @@ permalink: /lessons/
         <td><a href="{{site.baseurl}}/3.7">3.7</a></td>
         <td><a href="{{site.baseurl}}/3.8">3.8</a></td>
         <td><a href="{{site.baseurl}}/3.10">3.10</a></td>
+        <td><a href="{{site.baseurl}}/Achievements">Achievements</a></td>
     </tr>
 </table>
 
